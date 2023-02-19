@@ -153,7 +153,6 @@ function ftpUserBruteForce(){
 }
 
 # Ataque de fuerza bruta por diccionario de contraseñas y diccionario de usuarios por SSH y por FTP
-
 function sshUserPassBruteForce(){
     tput civis
 
