@@ -1,21 +1,5 @@
 #!/bin/bash
 
-# Script de fuerza bruta de SSH:
-#    - Este script intenta una lista de contraseñas en un servidor SSH para intentar obtener acceso no autorizado.
-#    - Puedes modificar el script para que pruebe contraseñas de diferentes fuentes, como diccionarios de palabras comunes o listas de contraseñas filtradas.
-
-# Script de escaneo de puertos:
-#   - Este script utiliza la herramienta nmap para escanear un rango de puertos en una dirección IP o en un rango de direcciones IP para detectar posibles vulnerabilidades.
-#   - Puedes modificar el script para personalizar los rangos de puertos y direcciones IP que se escanean.
-
-# Script de análisis de logs:
-#   - Este script analiza los logs del sistema en busca de intentos de acceso no autorizado, errores de autenticación y otras anomalías.
-#   - Puedes modificar el script para que analice diferentes tipos de logs y te notifique cuando se detecten eventos sospechosos.
-
-# Script de ataque de diccionario de contraseñas:
-#   - Este script utiliza una lista de contraseñas predefinidas para intentar iniciar sesión en diferentes servicios, como FTP, SMTP o POP3.
-#   - Puedes modificar el script para utilizar diferentes listas de contraseñas o para atacar diferentes servicios.
-
 #Colours
 green="\e[0;32m\033[1m"
 end="\033[0m\e[0m"
